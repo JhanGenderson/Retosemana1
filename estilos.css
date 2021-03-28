@@ -1,0 +1,40 @@
+header,section,footer,aside,nav,article{display: block;}
+body{background:silver}
+.lista{list-style: none;
+       padding: 5px; 
+       display: inline-block;}
+.celeste{background:aqua;}
+.amarillo{float: left;
+          background:yellow;
+          width: 400px ;
+          margin:1px 4px;
+          padding: 10px;
+        border: 1px solid black;}
+.verde{text-align: center;
+    float: left;
+    background:green;
+    width: 340px;
+    margin: 1px 4px ;
+    border: 1px solid black;
+    }
+.rosado{text-align: center;
+    float: left;
+    background:hotpink;
+    width: 300px ;
+    padding: 5px;
+    margin: 1px 15px;
+    border: 1px solid black }
+.melon{margin: 1px 4px ;
+       width: 350px  ;
+       border: 1px solid black;
+       float: left;
+       background:darksalmon;
+    }
+.naranja{text-align: center;
+    float:left;
+        margin: 1px 30px;
+        width: 300px;
+       background:orangered;}
+.pie{background: aqua;
+     clear: both;}
+        
